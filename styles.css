@@ -1,0 +1,30 @@
+.title
+{
+    font-family: Garamond, serif;
+    background-color: wheat;
+    color: white;
+    font-weight: bold;
+    font-size: 44px;
+}
+
+p {
+    color: white;
+    display: inline-block;
+  }
+
+.recipe1,
+.recipe2
+{
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+}
+
+* 
+{
+    border: 20px solid red;
+    margin: 100px;
+    padding: 20px;
+}
